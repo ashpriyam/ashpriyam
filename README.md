@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashpriyam
+- 👋 Hi, I’m Priyam Ash
 - 👀 I’m interested in Integration Architecture
 - 🌱 I’m currently learning AWS and GCP
 - 💞️ I’m looking to collaborate on Python,AWS,GCP,DevOps
